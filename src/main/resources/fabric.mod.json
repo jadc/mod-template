@@ -3,8 +3,8 @@
   "id": "template",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Template",
+  "description": "Template desc",
   "authors": ["Jad Chehimi"],
   "contact": {
     "homepage": "https://curseforge.com/mc-mods/template",
