@@ -18,7 +18,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "red.jad.template.TemplateMod"
+      "red.jad.template.Template"
     ]
   },
   "mixins": [
