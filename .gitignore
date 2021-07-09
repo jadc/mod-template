@@ -4,8 +4,6 @@
 build/
 out/
 classes/
-logs/
-*.log
 
 # eclipse
 
@@ -25,6 +23,10 @@ logs/
 bin/
 .classpath
 .project
+
+# macos
+
+*.DS_Store
 
 # fabric
 

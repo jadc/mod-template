@@ -1,4 +1,4 @@
-package red.jad.template.mixin;
+package red.jad.example.mixin;
 
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
